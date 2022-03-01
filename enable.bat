@@ -1,1 +1,0 @@
-Net user administrator /active:yes
